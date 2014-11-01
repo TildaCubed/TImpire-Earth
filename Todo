@@ -1,8 +1,5 @@
 *Start working on ability to create soldiers/citizens, mark them on map
-*Start enemy AI 
-*Try to complete data transfer ability 
-*Add more to Help menu, eventually make a new menu for Help, data transfers, etc. 
+*Start enemy AI
 *Look more into hybrid color libraries 
 *Add more types of objects (buildings) 
 *Figure out what F1 will be and make it
-*Implement money
