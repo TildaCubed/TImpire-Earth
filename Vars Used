@@ -4,3 +4,4 @@ C: Owns Plot flag
 lEESAV: Save file
 lT: Temp variable for storing object locations
 lS: Temp variable for storing extra save pieces
+lQ: Temp variable for removing claimed land
