@@ -2,7 +2,6 @@
 *Start enemy AI
 *Look more into hybrid color libraries 
 *Add more types of objects (buildings)
-*Try to make Basic version more stable
 *Start creating Age system
 *Takes time to build?
-*Add support for multiple plots marked on map screen
+*Add support for multiple object sets marked on map screen
