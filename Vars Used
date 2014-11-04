@@ -1,4 +1,6 @@
 X, Y: Player location
+W, V: Singular object's location
+R: Loop alteration variable (If 1, game tries to redraw erased objects)
 Theta: For( loop variable
 C: Owns Plot flag
 lEESAV: Save file
