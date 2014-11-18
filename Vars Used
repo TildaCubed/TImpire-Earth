@@ -2,7 +2,9 @@ X, Y: Player location
 W, V: Singular object's location
 R: Loop alteration variable (If 1, game tries to redraw erased objects)
 Theta: For( loop variable
+S: Temp variable for drawing nation color chooser on new game
 C: Owns Plot flag
+R: Redraw flag (If 1, sends straight into main loop without executing Repeat loop)
 lEESAV: Save file
 lT: Temp variable for storing object locations
 lS: Temp variable for storing extra save pieces
