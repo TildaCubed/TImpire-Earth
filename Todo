@@ -1,7 +1,7 @@
 *Start working on ability to create soldiers/citizens, mark them on map
 *Start enemy AI
 *Look more into hybrid color libraries 
-*Add more types of buildings (UI set up, now I must focus on the code)
 *Start creating Age system
 *Takes time to build?
 *Add support for multiple object sets marked on map screen
+*Make different types of buildings do more than lag the engine (OOOOOooh! Burn!)
